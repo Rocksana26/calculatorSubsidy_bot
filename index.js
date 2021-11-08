@@ -11,7 +11,7 @@ const keyboard = [
       {
         text: 'Хорошо', // текст на кнопке
         callback_data: 'user_ok' // данные для обработчика событий
-      }  lol
+      }
     ],
     [
       {
